@@ -15,3 +15,5 @@ This web project features a captivating landing page crafted with HTML and CSS. 
 
 Feel free to customize, expand, and integrate this HTML and CSS template into your projects. Enhance your web presence with this engaging landing page that combines aesthetics and interactivity!
 ![image](https://github.com/Vijayashanmuga/DynamicVideoLanding/assets/113011990/aa72310f-4e93-42e0-ae77-1526343d1bff)
+https://github.com/Vijayashanmuga/DynamicVideoLanding/assets/113011990/df49c0cd-afd3-4f3b-ab96-83d80b1c91e0
+
